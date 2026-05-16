@@ -41,7 +41,7 @@ The player starts outside a house in a dark environment. The objective is to col
 
 ![Enemy Chase](Screenshots/Zombie.png)
 
-### 🚪 Gate Opened
+### 🚪 Gate
 
 ![Gate Opened](Screenshots/ExitGate.png)
 
