@@ -25,8 +25,7 @@ The player starts outside a house in a dark environment. The objective is to col
 
 ## 🎥 Gameplay Video
 
-[Watch on YouTube]((https://youtu.be/oERJXAhBycU))
-
+[Watch on YouTube](https://youtu.be/oERJXAhBycU)
 
 ## 📸 Screenshots
 
