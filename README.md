@@ -23,6 +23,11 @@ The player starts outside a house in a dark environment. The objective is to col
 * WASD — Move
 * Mouse — Look Around
 
+## 🎥 Gameplay Video
+
+[Watch on YouTube]([PASTE_YOUR_VIDEO_LINK](https://youtu.be/oERJXAhBycU))
+
+
 ## 📸 Screenshots
 
 ### 🏠 Main Menu
